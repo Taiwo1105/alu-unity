@@ -1,0 +1,3 @@
+[submodule "unity_publishing/unity_publishing/alu-0x03-unity-ui"]
+	path = unity_publishing/unity_publishing/alu-0x03-unity-ui
+	url = https://github.com/Taiwo1105/alu-0x03-unity-ui.git
